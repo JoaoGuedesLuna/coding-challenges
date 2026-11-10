@@ -1,4 +1,4 @@
-package bitnumber.easy;
+package bignumber.easy;
 
 import java.math.BigInteger;
 import java.util.Scanner;
